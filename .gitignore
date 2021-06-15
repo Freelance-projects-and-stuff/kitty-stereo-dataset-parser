@@ -137,4 +137,6 @@ dmypy.json
 *.mp4
 *.pdf
 
-birds
+*.bin
+*.txt
+!requirements.txt

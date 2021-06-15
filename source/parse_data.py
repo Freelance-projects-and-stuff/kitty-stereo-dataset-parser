@@ -51,7 +51,6 @@ def video(images_video, name="movie.mp4"):
 
     ani = animation.ArtistAnimation(fig, frames, interval=50, blit=True,
                                     repeat_delay=1000)
-    writervideo = animation.FFMpegWriter(fps=10)
     plt.show()
 
 images_GT = []
