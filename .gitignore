@@ -140,3 +140,4 @@ dmypy.json
 *.bin
 *.txt
 !requirements.txt
+!view.png
